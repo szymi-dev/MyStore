@@ -1,0 +1,56 @@
+[
+    {
+        "Id" : 1,
+        "Name" : "Deska zimowa",
+        "Price" : 200,
+        "PictureUrl" : "images/products/sb-ang1.png",
+        "ProductSizeId" : 1,
+        "ProductBrandId" : 1,
+        "ProductTypeId" : 1
+    },
+    {
+        "Id" : 2,
+        "Name" : "Czapka",
+        "Price" : 30,
+        "PictureUrl" : "images/products/hat-core1.png",
+        "ProductSizeId" : 2,
+        "ProductBrandId" : 2,
+        "ProductTypeId" : 2
+    },
+    {
+        "Id" : 3,
+        "Name" : "Rekawiczki",
+        "Price" : 70,
+        "PictureUrl" : "Blue Code Gloves",
+        "ProductSizeId" : 3,
+        "ProductBrandId" : 3,
+        "ProductTypeId" : 3
+    },
+    {
+        "Id" : 4,
+        "Name" : "Czerwone Buty",
+        "Price" : 350,
+        "PictureUrl" : "images/products/boot-redis1.png",
+        "ProductSizeId" : 2,
+        "ProductBrandId" : 4,
+        "ProductTypeId" : 4
+    },
+    {
+        "Id" : 5,
+        "Name" : "Fioletowe Buty",
+        "Price" : 510,
+        "PictureUrl" : "images/products/boot-core1.png",
+        "ProductSizeId" : 3,
+        "ProductBrandId" : 4,
+        "ProductTypeId" : 4
+    },
+    {
+        "Id" : 6,
+        "Name" : "Deska letnia",
+        "Price" : 120,
+        "PictureUrl" : "images/products/sb-ts1.png",
+        "ProductSizeId" : 3,
+        "ProductBrandId" : 1,
+        "ProductTypeId" : 1
+    }
+]
